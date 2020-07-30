@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
+
 ### Hi there 👋
 
 <!--
