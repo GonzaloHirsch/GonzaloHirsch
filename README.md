@@ -2,7 +2,7 @@
 
 <img align="center" alt="Gonzalo Hirsch | Cover" src="https://github.com/GonzaloHirsch/GonzaloHirsch/blob/master/resources/cover.jpg" />
 
-I'm a Full-Stack developer and Software Engineering student at the Buenos Aires Institute of Technology (ITBA) based in Argentina, currently I'm working in a tech startup [@NewCombin](https://newcombin.com). In my free time I work as the Vice-President and Co-Founder of the [IEEE's Computer Society ITBA Strudent Branch](https://www.computer.org/).
+I'm a Full-Stack developer and Software Engineering student at the Buenos Aires Institute of Technology (ITBA) based in Argentina, currently I'm working in a tech startup [@NewCombin](https://newcombin.com). I'm also the Vice-President and Co-Founder of the [IEEE's Computer Society ITBA Strudent Branch](https://www.computer.org/).
 
 I love technology and building interesting and amazing applications and experiences.
 
