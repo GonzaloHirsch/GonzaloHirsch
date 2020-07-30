@@ -30,7 +30,7 @@ I have experience:
 <a href="https://github.com/GonzaloHirsch">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />
 </a>
-<a href="https://gonzalohirsch.com">
-  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/about-dot-me.svg" />
+<a href="http://gonzalohirsch.com/#/en">
+  <img align="left" alt="Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/about-dot-me.svg" />
 </a>
 </br>
