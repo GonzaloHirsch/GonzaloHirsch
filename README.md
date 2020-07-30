@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://greekmeleehell.files.wordpress.com/2017/11/gif-4.gif" />
+<img align="center" alt="Gonzalo Hirsch | Cover" src="https://github.com/GonzaloHirsch/GonzaloHirsch/blob/master/resources/cover.jpg" />
 
 ### Hi there 👋
 
