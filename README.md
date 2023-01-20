@@ -2,7 +2,7 @@
 
 <img align="center" alt="Gonzalo Hirsch | Cover" src="https://github.com/GonzaloHirsch/GonzaloHirsch/blob/master/resources/cover.jpg" />
 
-I'm a Full-Stack developer and Software Engineering student at the Buenos Aires Institute of Technology (ITBA) based in Argentina, currently I'm working in a NY-based part digital studio, part management consultancy company, [The Winston Project](https://www.linkedin.com/company/winstonproject/). I'm part of the [Toptal](https://www.toptal.com/resume/gonzalo-hirsch) community as a freelance Full-Stack developer. I'm also the Vice-President and Co-Founder of the [IEEE's Computer Society ITBA Strudent Branch](https://www.computer.org/).
+I'm a Full-Stack developer and Software Engineer (BS, MEng) from the Instituto Tecnológico de Buenos Aires (ITBA) based in Argentina, currently I'm working in a NY-based part digital studio, part management consultancy company, [The Winston Project](https://www.linkedin.com/company/winstonproject/). I'm part of the [Toptal](https://www.toptal.com/resume/gonzalo-hirsch) community as a freelance Full-Stack developer. I'm also the Vice-President and Co-Founder of the [IEEE's Computer Society ITBA Strudent Branch](https://www.computer.org/).
 
 I love technology and building interesting and amazing applications and experiences.
 
@@ -12,7 +12,7 @@ I have experience:
  - Creating videogames
  - Building websites
  - Programming Android applications
- - Making servers
+ - Developing servers
  - Creating APIs
  - And many more...
 
