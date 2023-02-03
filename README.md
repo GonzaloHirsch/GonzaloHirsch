@@ -2,9 +2,9 @@
 
 <img align="center" alt="Gonzalo Hirsch | Cover" src="https://github.com/GonzaloHirsch/GonzaloHirsch/blob/master/resources/cover.jpg" />
 
-I'm a Full-Stack developer and Software Engineer (BS, MEng) from the Instituto Tecnológico de Buenos Aires (ITBA) based in Argentina, currently I'm working in a NY-based part digital studio, part management consultancy company, [The Winston Project](https://www.linkedin.com/company/winstonproject/). I'm part of the [Toptal](https://www.toptal.com/resume/gonzalo-hirsch) community as a freelance Full-Stack developer. I'm also the Vice-President and Co-Founder of the [IEEE's Computer Society ITBA Strudent Branch](https://www.computer.org/).
+I am a Full-Stack Software Engineer (BS, MEng) from the Instituto Tecnológico de Buenos Aires (ITBA) in Argentina and a [certified Solutions Architect Associate](https://www.credly.com/badges/9bcea4aa-826b-46c9-a711-64f5f314aeab/public_url) from AWS. Also a member of the [Toptal](https://www.toptal.com/resume/gonzalo-hirsch) community as a Freelance Full-Stack Engineer. I'm also the Vice-President and Co-Founder of the [IEEE's Computer Society ITBA Student Branch](https://csitba.web.app/).
 
-I love technology and building interesting and amazing applications and experiences.
+I have a track record of developing optimized solutions and being a dependable individual at all organizations I work. Technology and building fantastic products are my passions.
 
 ## What do I build?
 
@@ -18,7 +18,7 @@ I have experience:
 
 ## Social Links
 
-<a href="https://www.linkedin.com/in/gonzalo-hirsch-5b4854155/">
+<a href="https://www.linkedin.com/in/gonzalo-hirsch/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/linkedin.svg" />
 </a>
 <a href="https://www.toptal.com/resume/gonzalo-hirsch">
@@ -36,7 +36,7 @@ I have experience:
 <a href="mailto:hirschgonzalo@gmail.com">
   <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />
 </a>
-<a href="http://gonzalohirsch.com/#/en">
+<a href="https://gonzalohirsch.com/">
   <img align="left" alt="Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/about-dot-me.svg" />
 </a>
 </br>
