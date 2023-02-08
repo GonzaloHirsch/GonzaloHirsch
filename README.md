@@ -2,7 +2,7 @@
 
 <img align="center" alt="Gonzalo Hirsch | Cover" src="https://github.com/GonzaloHirsch/GonzaloHirsch/blob/master/resources/cover.jpg" />
 
-![Profile views counter](https://views.gonzalohirsch.com/gh?user=GonzaloHirsch&color=blue)
+![Profile views counter](https://views.gonzalohirsch.com/gh?user=GonzaloHirsch&color=darkorange)
 
 I am a Full-Stack Software Engineer (BS, MEng) from the Instituto Tecnológico de Buenos Aires (ITBA) in Argentina and a [certified Solutions Architect Associate](https://www.credly.com/badges/9bcea4aa-826b-46c9-a711-64f5f314aeab/public_url) from AWS. Also a member of the [Toptal](https://www.toptal.com/resume/gonzalo-hirsch) community as a Freelance Full-Stack Engineer. I'm also the Vice-President and Co-Founder of the [IEEE's Computer Society ITBA Student Branch](https://csitba.web.app/).
 
