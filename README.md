@@ -15,7 +15,7 @@ I have experience:
  - Building websites
  - Programming Android applications
  - Developing servers
- - Creating APIs
+ - Creating APIs (for example, the profile views counter...)
  - And many more...
 
 ## Social Links
